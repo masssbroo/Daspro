@@ -1,0 +1,2 @@
+sample,sample,10,20
+kentang,kentang,2099,299
